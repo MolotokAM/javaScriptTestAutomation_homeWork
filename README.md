@@ -1,1 +1,1 @@
-My repository for homework
+My repository for all homework
